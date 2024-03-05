@@ -25,7 +25,7 @@ def main():
     pencere.bgcolor("black")   # Arka plan rengini beyaz yap
 
     shape = turtle.Turtle()    # Şekil nesnesini oluştur
-    shape.color("purple")        # Şekil rengini mavi yap
+    shape.color("blue")        # Şekil rengini mavi yap
     shape.shape("turtle")      # Şekli turtle olarak ayarla
 
     adim = 250   # İleri gitme adım miktarı
